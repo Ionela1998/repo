@@ -1,0 +1,22 @@
+{ "Admini":
+  [
+    {
+      "Id": 1,
+      "Nume": "Andone Simona-Ionela",
+      "Varsta": 23,
+      "Mail": "mail1"
+    },
+    {
+      "Id": 2,
+      "Nume": "Nanu Elena",
+      "Varsta": 24,
+      "Mail": "mail2"
+    },
+    {
+      "Id": 3,
+      "Nume": "Rotaru Malina",
+      "Varsta": 22,
+      "Mail": "mail3"
+    }
+  ]
+}
